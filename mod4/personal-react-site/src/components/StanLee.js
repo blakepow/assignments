@@ -20,6 +20,9 @@ export default function StanLee() {
             <br/>
             <br/>
             Everything Stan Lee has done was to make people happy, and he was successfully able to do that, with all the comic books, movies, TV shows, and everything else that he helped co-create. Unfortunately, Stan passed away at the age of 95 because of heart problems. The mark that he left on the world could never be shared with anyone. Stan did not only just make comics and make cameos in movies, he also would talk to people about how he got from being a boy in Brooklyn during the Great Depression to billionaire comic creator, and some those people he talked with became successful and lived a life most people dream of. Stan Lee was able to completely turn an actor's life around, as well as grow a small comic book company, and become the person people think of when talking about Marvel and how successful the company has been because of him. Stan Lee helped inspire me to not stop because of what of other people say, to always push forward and be kind to others and you will get far in life. He also inspired me to become an entrepreneur. The amount of success that came from Marvel helped Stan live an easy life to the point where if he wanted to do something he could do it. Without the famous comic book creator, the comic book world would be completely different than what it is now, and same goes for the movie world.
+            <br/>
+            <br/>
+            *This essay was written by someone on google, not Blake Powelson. I just wanted to add another page to my website. Thank you whoever wrote this.*
         </div>
     )
 }

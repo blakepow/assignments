@@ -37,6 +37,16 @@ class UglyContextProvider extends Component {
         })
     }
 
+    edit = (e) => {
+        e.preventDefault()
+        alert('edit')
+    }
+
+    delete = (e) => {
+        e.preventDefault()
+        
+    }
+    
     render() {
         return (
             <Provider value={{
@@ -45,7 +55,9 @@ class UglyContextProvider extends Component {
                 imgUrl: this.state.imgUrl,
                 uglyThings: this.state.uglyThings,
                 handleChange: this.handleChange,
-                handleSubmit: this.handleSubmit
+                handleSubmit: this.handleSubmit,
+                edit: this.edit,
+                delete: this.delete
             }}>
                 {this.props.children}
             </Provider>

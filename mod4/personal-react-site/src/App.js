@@ -17,7 +17,7 @@ export default function App() {
     selected: {}
   })
 
-  const apiurl = 'http://www.omdbapi.com/?i=tt3896198&apikey=76125a5c'
+  const apiurl = 'http://www.omdbapi.com/?apikey=76125a5c'
 
   const search = (e) => {
     if (e.key === 'Enter'){
